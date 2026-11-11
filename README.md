@@ -4,6 +4,9 @@ This repo is a play ground for trying different things, such as courses, opensou
 ## OS
 For software development, I prefer using ubuntu 24.04 and 26.04, all commands should work on them.
 
+## configure env
+Copy .env.template to .env and fill in your apikeys.
+
 ## Python
 I prefer using conda for managing python modules, but some modules can only be installed with pip. So both of these two module managing tools are used.
 
